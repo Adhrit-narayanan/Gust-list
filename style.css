@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: rgb(10, 247, 168);
+}
+#sortbutton{
+display: none;
+}
+#resultwithcomma{
+    border: 10px solid rgb(10, 10, 10);
+    padding:10px;
+    background-color: rgb(9, 226, 241);
+    border-radius: 10px;
+    width: 50%;
+}
+#resultwithoutcomma{
+    border: 10px solid rgb(7, 7, 7);
+    padding:10px;
+    background-color: rgb(255, 0, 242);
+    border-radius: 10px;
+    width: 50%;
+}
